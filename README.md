@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img  src="[https://cdn.discordapp.com/attachments/1042103086770032727/1050785617811886140/image_8.png](https://user-images.githubusercontent.com/104715127/171070122-70a314f1-626a-44f6-9525-6db623eb19f1.png)">
+  <img  src="https://cdn.discordapp.com/attachments/1106717170181881928/1107542022597906462/171070122-70a314f1-626a-44f6-9525-6db623eb19f1.png">
   <br>
   <img  src="https://img.shields.io/github/languages/top/djamalkaas/synapse-x-crack?color=6d00c1">
   <img  src="https://img.shields.io/github/stars/djamalkaas/synapse-x-crack?color=6d00c1&logoColor=6d00c1">
